@@ -1,2 +1,10 @@
-# clone-netflix
-Netflix homepage clone made with HTML, CSS.
+# Clone Netflix
+
+- [x] Projeto desenvolvido para aprendizado.
+- [x] HTML / CSS Puro 
+
+#
+
+
+## Feito com ♥ by Fernando
+
